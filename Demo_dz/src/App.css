@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.Header, .Body {
+  margin-bottom: 20px;
+}
+.app-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}

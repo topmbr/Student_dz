@@ -1,0 +1,154 @@
+.book-container {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.book-section {
+    appearance: none;
+    text-align: center;
+    margin-top: 20px;
+    border: 10;
+    border-radius: 5px;
+    background: #2857ef;
+    color: #ffffff;
+    padding: 20px 200px;
+    font-size: 26px;
+}
+
+.book-section h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.book-input {
+    margin-left: 20px;
+    margin-bottom: 1px;
+    padding: 5px;
+    border: 5px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.book-button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.book-button:hover {
+    background-color: #0056b3;
+}
+
+.book-info {
+    appearance: none;
+    text-align: center;
+    margin-top: 20px;
+    border: 0;
+    border-radius: 5px;
+    background: #2857ef;
+    color: #ffffff;
+    padding: 10px 16px;
+    font-size: 16px;
+}
+
+.fetch-book-section {
+    appearance: none;
+    text-align: center;
+    margin-top: 20px;
+    border: 10;
+    border-radius: 5px;
+    background: #0c2ea1;
+    color: #ffffff;
+    padding: 20px 300px;
+    font-size: 26px;
+}
+.fetch-book-button{
+    text-align: center;
+    appearance: none;
+    margin-top: 20px;
+    border: 0;
+    border-radius: 5px;
+    background: #0d1e3f;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+}
+.fetch-book-button:hover {
+    background-color: #3480d1;
+}
+
+.get-book-button {
+    
+    text-align: center;
+    appearance: none;
+    margin-top: 20px;
+    border: 0;
+    border-radius: 5px;
+    background: #00297c;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+}
+
+.get-book-button:hover {
+    background-color: #0056b3;
+}
+
+.update-book-section {
+    text-align: center;
+    margin-top: 100px;
+    border: 10;
+    border-radius: 5px;
+    background: #0c2ea1;
+    color: #812929;
+    padding: 10px 100px;
+    font-size: 16px;
+}
+
+.delete-book-section {
+    appearance: none;
+    text-align: center;
+    margin-top: 20px;
+    border: 10;
+    border-radius: 5px;
+    background: #dc3540;
+    color: #ffffff;
+    padding: 20px 250px;
+    font-size: 26px;
+}
+
+.update-book-button {
+    text-align: center;
+    appearance: none;
+    margin-top: 20px;
+    border: 0;
+    border-radius: 5px;
+    background: #027b26;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+}
+.delete-book-button{
+    text-align: center;
+    appearance: none;
+    margin-top: 20px;
+    border: 0;
+    border-radius: 5px;
+    background: #700404;
+    color: #fff;
+    padding: 8px 16px;
+    font-size: 16px;
+}
+.update-book-button:hover{
+    background-color: #4cd771;
+}
+.delete-book-button:hover {
+    background-color: #c82333;
+}
